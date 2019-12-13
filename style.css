@@ -31,7 +31,7 @@ figcaption {
   font-style: italic;
 }
 
-#featured-property p {
+#featured-property > p {
   width: 800px;
   text-align: center;
 }
