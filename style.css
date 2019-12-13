@@ -47,4 +47,5 @@ figcaption {
   text-align: center;
   width: 25%;
   background: rgba(0,0,255,0.25);
+  margin-bottom: 20px;
 }
